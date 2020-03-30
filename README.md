@@ -1,5 +1,11 @@
-# Kirsche
-Erstes Tool für Termux
-
-Mein Tool wen ich Termux installiere einige gehört plus Metasploit etc sind vorhanden. Dies Tool gehört es, Wichtige Rechte zu schützen die sie auf jeden Fall Benutzen Python usw. So sparen sie sich viel Zeit und können es im Hintergrund laufen lassen. Dieses Tool gehört sich in der Anfangsphase und auf noch lange nicht Fertig. Es wird noch Zauberhafte Funktionen dazu kommen die sie Lieben werden. Da ich aber beide Arbeiten muss länger es Länger. Und mich durch einige Bücher Schlagen muss. Ein wahr Viel Spaß.
-# KrelL0x
+# TMX-Tool
+Dient zur Vereinfachung. Installiert oder Deinstalliert 
+Pakete (PKG) für sie. Natürlich nur die, die sie auch 
+eingegeben haben. Es zeigt eine PKG-Liste an von allen
+PKG Paketen darunter stehen auch ihre installierten Pkg
+Sie sparen Zeit weil sie nur den richtigen Paket namen 
+eingeben müssen. Es folgt noch eine Weite Version von
+diesem Tool alles in Arbeit. Viel Spaß mit dem Tool
+Falls mich wer Adden will auf Instagram
+dan bitte folgt /  termux.de 
+würde mich seher Freuen. 
